@@ -1,6 +1,6 @@
 ### Namaste, I'm Aryan 🙏
 
-## About Me
+### About Me
 
 - 💻 I'm a full stack developer
 - 🔭 I’m a 3rd year engineering student (B.Tech IT) at NIT Raipur
@@ -11,7 +11,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and sing on my ukulele
 
-## Hackathon Track Record
+### Hackathon Track Record
 
 * 1st Position in Girlscript Hack4Women Hackathon 2020
 * National finalist in Smart India Hackathon’20
@@ -20,7 +20,7 @@
 * 2nd Position in Version Beta’19 Hackathon at MANIT Bhopal.
 * 3rd Position in NIT Conclave’19 Hackathon at NIT Rourkela
 
-## Competitive Programming Track Record
+### Competitive Programming Track Record
 
 * 9 Rank in Code Legacy at NIT Raipur
 * 357 global rank in CodeChef September Long Challenge 2020
