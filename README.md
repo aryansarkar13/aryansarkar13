@@ -1,4 +1,4 @@
-### Namaste, I'm Aryan 🙏
+## Namaste, I'm Aryan 🙏
 
 ### About Me
 
