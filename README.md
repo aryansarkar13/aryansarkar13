@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 💻 I'm a full stack developer with knowledge of multiple languages, tools and frameworks
+- 💻 I'm a full stack developer
 - 🔭 I’m a 3rd year engineering student (B.Tech IT) at NIT Raipur
 - 💼 Former web developer intern at Ununu.io
 - 🌱 I’m currently learning everything 🤣 
