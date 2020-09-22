@@ -1,9 +1,10 @@
 ### Namaste, I'm Aryan 🙏
 
-## I'm a Full Stack Developer
+## About Me
 
+- 💻 I'm a full stack developer with knowledge of multiple languages, tools and frameworks
 - 🔭 I’m a 3rd year engineering student (B.Tech IT) at NIT Raipur
-- 💻 Former web developer intern at Ununu.io
+- 💼 Former web developer intern at Ununu.io
 - 🌱 I’m currently learning everything 🤣 
 - 👯 I’m looking to collaborate with other developers on new ideas and technologies
 - 🏆 I'm actively participating in various hackathons and CP contests
