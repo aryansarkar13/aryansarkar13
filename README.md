@@ -57,6 +57,9 @@
 
 ---
 
+_Find my resume here_ [pdf](https://aryansarkar13.github.io/Resume/)
+
+
 [instagram]: https://instagram.com/_the_philosopher_
 [linkedin]: https://linkedin.com/in/aryan-sarkar
 [facebook]: https://www.facebook.com/aryan.sarkar.792
