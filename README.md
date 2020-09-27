@@ -22,8 +22,9 @@
 
 ### Competitive Programming Track Record
 
+* 694 Rank in CodeChef September Lunchtime Challenge
 * 9 Rank in Code Legacy at NIT Raipur
-* 357 global rank in CodeChef September Long Challenge 2020
+* 357 global rank in CodeChef September Long Challenge
 * 41 Rank in NIT Code War conducted by Coding Ninjas
 * 1916 Rank in TCS CodeVita 2020 Pre-Qualifier (Among 200-300k participants)
 
