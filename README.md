@@ -19,6 +19,7 @@
 * 1st Position in CodeUtsava’20 Hackathon at NIT Raipur in the theme Smart Fuel Indicator
 * 2nd Position in Version Beta’19 Hackathon at MANIT Bhopal.
 * 3rd Position in NIT Conclave’19 Hackathon at NIT Rourkela
+* 3rd Position in Hack4She'20 Hacakthon
 
 ### Competitive Programming Track Record
 
