@@ -5,6 +5,7 @@
 - 💻 I'm a full stack developer
 - 🔭 I’m a 3rd year engineering student (B.Tech IT) at NIT Raipur
 - 💼 Former web developer intern at Ununu.io
+- 👨‍ Freelance developer
 - 🌱 I’m currently learning everything 🤣 
 - 👯 I’m looking to collaborate with other developers on new ideas and technologies
 - 🏆 I'm actively participating in various hackathons and CP contests
